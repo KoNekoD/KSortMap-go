@@ -2,8 +2,8 @@ package KSortMap
 
 import "sort"
 
-// KSortMap - sorts a map by it's keys
-func KSortMap[K ~int | ~int64 | ~string, V comparable](input map[K]V) map[K]V {
+// Sort - sorts a map by its keys
+func Sort[K ~int | ~int64 | ~string, V comparable](input map[K]V) map[K]V {
 	keys := make([]K, 0, len(input))
 	for k := range input {
 		keys = append(keys, k)
