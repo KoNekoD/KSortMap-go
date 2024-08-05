@@ -7,7 +7,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/KoNekoD/KSortMap-go"
+	"github.com/KoNekoD/KSortMap-go/cmd/KSortMap"
 )
 
 func main() {
