@@ -1,4 +1,4 @@
-package KSortMap_go
+package KSortMap
 
 import "sort"
 
