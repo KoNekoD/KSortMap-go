@@ -1,4 +1,4 @@
-package cmd
+package KSortMap_go
 
 import "sort"
 
