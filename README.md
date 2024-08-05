@@ -1,5 +1,11 @@
 # KSortMap - a package for sorting the map by keys
 
+## Install
+
+```shell
+go get github.com/KoNekoD/KSortMap-go/cmd/KSortMap
+```
+
 ## Usage
 
 ```go
